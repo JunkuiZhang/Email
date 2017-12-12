@@ -13,7 +13,7 @@ import smtplib
 from_addr = "junkuizhang@126.com"
 to_addr = "364772080@qq.com"
 
-pwd = "ZJKzhangjunkui01"
+pwd = "***"
 smtpurl = "smtp.126.com"
 
 msg = MIMEMultipart()
