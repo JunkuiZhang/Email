@@ -5,7 +5,7 @@ from email.header import Header
 
 message = MIMEText("Hello world!", "plain", "utf-8")
 from_addr = "junkuizhang@126.com"
-pwd = "ZJKzhangjunkui01"
+pwd = "***"
 to_addr = "364772080@qq.com"
 smtp_sever = "smtp.126.com"
 
